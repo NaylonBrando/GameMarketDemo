@@ -7,7 +7,7 @@ namespace GameMarketDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Fuck You World!");
+            Console.WriteLine("Hello World :)");
             //Senaryo:
             //Oyuncularin sisteme kayit, guncelleme, silme islemi yapabilecegi bir ortam. Ek olarak musteri bilgilerinin teyit edilecegi mernis
             //oyun satisi yapilabilecek ortam
